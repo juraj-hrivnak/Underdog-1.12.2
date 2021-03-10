@@ -1,4 +1,1 @@
-- name: GitHub Project Automation+
-  uses: alex-page/github-project-automation-plus@v0.5.1
-
 theme: jekyll-theme-cayman
